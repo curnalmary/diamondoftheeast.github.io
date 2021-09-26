@@ -941,7 +941,7 @@ h3{
      margin-top:140px;
 
 }
-@media screen (max-width: 640px){
+@media screen(max-width: 640px){
 
   *{
   margin: 0;
@@ -1153,7 +1153,7 @@ color: white;
  display: none;
 }
 }
-@media screen (max-width: 959px){
+@media screen(max-width: 959px){
   
  #one{
    width: 100%;
